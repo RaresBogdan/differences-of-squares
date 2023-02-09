@@ -16,3 +16,4 @@ def difference_of_squares(number):
     square_of_sum_result = square_of_sum(number)
     sum_of_squares_result = sum_of_squares(number)
     return square_of_sum_result - sum_of_squares_result
+#aasdasda
